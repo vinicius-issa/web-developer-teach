@@ -1,0 +1,70 @@
+#logo {
+    width: 181px;
+}
+
+body {
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: opensanstitle, helvetica, arial, sans-serif;
+    font-size: 22px;
+    font-weight: 100;
+    line-height: 30px;
+}
+
+#menu {
+    background-color: #FFC800;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#conteudo {
+    max-width: 882px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+h2 {
+    color: #555;
+    font-size: 1.3rem;
+    font-weight: 200;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: #a5147d;
+    font-weight: 700;
+}
+
+li {
+    line-height: 40px;
+    margin-left: 0px;
+}
+
+.texto-final {
+    font-weight: 600;
+    border-top: solid #777 2px;
+    margin-top: 50px;
+}
+
+#rodape {
+    width: 100%;
+    background-color: #FFC800;
+    text-align: center;
+    font-size: 0.9rem;
+}
